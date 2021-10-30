@@ -1,0 +1,49 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap'); */
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+body {
+    position: relative;
+    overflow-x: hidden;
+}
+#product_types::-webkit-scrollbar, #scroll::-webkit-scrollbar {
+    display: none;
+}
+#product_card_tag::after, #product_card_tag::before {
+    box-sizing: content-box;
+    content: "";
+    position: absolute;
+    top: 0px;
+    /* z-index: -1; */
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 10px 4px;
+    
+}
+#product_card_tag::after {
+    right: 0px;
+    border-right-color: transparent;
+    transform: translateX(50%);
+}
+#product_card_tag::before {
+    z-index: -1;
+}
+@media (min-width: 60em) {
+    #product_card_tag::after, #product_card_tag::before {
+        border-width: 15px 8px;
+    }
+}
+@media (min-width: 750px) {
+    #product_type_naame::before {
+        content: "Shop ";
+    }
+}
+
+#product_card_tag.sidebar::after, #product_card_tag.sidebar::before {
+    border-width: 16px 8px;
+    border-color: rgb(255, 214, 0);
+} 
+#product_card_tag.sidebar.active::after {
+    border-right-color: transparent;
+}
