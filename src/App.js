@@ -4,6 +4,7 @@ import NavBar from './components/NavBar'
 import ShopItems from './components/ShopItems'
 import Essentials from './components/Essentials'
 import CircleItem from './components/CircleItem'
+import SkepticsSection from './components/SkepticsSection'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Essentials />
         <CircleItem />
       </section>
+      <SkepticsSection />
     </div>
   )
 }

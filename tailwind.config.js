@@ -15,12 +15,23 @@ module.exports = {
       gray: colors.coolGray,
       yellow: 'rgb(255, 214, 0)'
     },
-    screens: {
+    flex: {
+      '25': '0 0 25%',
+      '0': '0 0 0',
+    },
+    // screens: {
+    //   'xs': '450px',
+    //   'sm': '540px',
+    //   'md': '750px',
+    //   'lg': '960px',
+    //   '2xl': '1200px'
+    // },
+     screens: {
       'xs': '450px',
-      'sm': '540px',
+      'sm': '600px',
       'md': '750px',
-      'lg': '960px',
-      '2xl': '1200px'
+      'lg': '942px',
+      '2xl': '1195px'
     },
     extend: {
       maxWidth: {
