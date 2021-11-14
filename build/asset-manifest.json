@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2fdab3a1.chunk.css",
+    "main.js": "/static/js/main.a61df4b0.chunk.js",
+    "main.js.map": "/static/js/main.a61df4b0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4c921df9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4c921df9.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.7a37f18b.chunk.js": "/static/js/2.7a37f18b.chunk.js",
+    "static/js/2.7a37f18b.chunk.js.map": "/static/js/2.7a37f18b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.2fdab3a1.chunk.css.map": "/static/css/main.2fdab3a1.chunk.css.map",
+    "static/js/2.7a37f18b.chunk.js.LICENSE.txt": "/static/js/2.7a37f18b.chunk.js.LICENSE.txt",
+    "static/media/FaceBook.7e64a9e5.svg": "/static/media/FaceBook.7e64a9e5.svg",
+    "static/media/Health.07724c5e.svg": "/static/media/Health.07724c5e.svg",
+    "static/media/global-css.css": "/static/media/Home-Hero-Mobile.467872d5.webp",
+    "static/media/InstaGram.e2e58075.svg": "/static/media/InstaGram.e2e58075.svg",
+    "static/media/Pinterest.a843a88b.svg": "/static/media/Pinterest.a843a88b.svg",
+    "static/media/Twiiter.82101263.svg": "/static/media/Twiiter.82101263.svg",
+    "static/media/Vogue.1f1ba740.svg": "/static/media/Vogue.1f1ba740.svg",
+    "static/media/YouTube.9c7a4bb4.svg": "/static/media/YouTube.9c7a4bb4.svg",
+    "static/media/erica.88d43cbc.webp": "/static/media/erica.88d43cbc.webp",
+    "static/media/img1.9c0a0d2c.webp": "/static/media/img1.9c0a0d2c.webp",
+    "static/media/img2.1d815a07.webp": "/static/media/img2.1d815a07.webp",
+    "static/media/img3.777abaab.webp": "/static/media/img3.777abaab.webp",
+    "static/media/img4.9cf2f81b.webp": "/static/media/img4.9cf2f81b.webp",
+    "static/media/kara.73df2793.webp": "/static/media/kara.73df2793.webp",
+    "static/media/logo.d1ce6280.svg": "/static/media/logo.d1ce6280.svg",
+    "static/media/megan.c9f6c187.webp": "/static/media/megan.c9f6c187.webp",
+    "static/media/nyc.622fd12d.svg": "/static/media/nyc.622fd12d.svg",
+    "static/media/wired.b700b753.svg": "/static/media/wired.b700b753.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c921df9.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.7a37f18b.chunk.js",
+    "static/css/main.2fdab3a1.chunk.css",
+    "static/js/main.a61df4b0.chunk.js"
+  ]
+}
